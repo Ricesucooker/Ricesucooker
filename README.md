@@ -1,7 +1,7 @@
 <h1>Hi My Name is Top 🍵 </h1>
 
 
-<h3> Welcome to my github where, Please enjoy your stay!👋😄 </h3>
+<h3> Welcome to my github, enjoy your stay!👋😄 </h3>
 
 
 ```py3 
