@@ -5,7 +5,7 @@
 
 
 ```py3 
- from net.library import stackoverflow, reddit, googling.how-to-%%%, documentaions
+ from www.library import stackoverflow, reddit, googling.how-to-%%%, documentaions
 
 
  
